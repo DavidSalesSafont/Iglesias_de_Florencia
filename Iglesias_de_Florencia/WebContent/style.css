@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{background-color: hsl(67, 10%, 75%);
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  text-align: justify;}
+h2{clear:both;
+	 color:white;
+	 background-color: #6D5A28;}
+h1 {
+  color: hsl(240, 65%, 25%);
+  letter-spacing: 50px;
+  text-align: right;
+}
+#img1{float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;}
+
+#img2{text-align:center;}
+#img3{float:right; margin-left: 10px;margin-bottom:20px}
+
+.cursiva{font-style: italic;clear:right; font-size:20px}
